@@ -1,0 +1,5 @@
+====================
+senaite.bikaimages
+====================
+
+User documentation
