@@ -34,4 +34,9 @@
       factory=".setuphandlers.HiddenProfiles"
       name="senaite.bikaimages-hiddenprofiles" />
 
+  <interface
+      interface=".interfaces.ISenaiteBikaimagesLayer"
+      type="zope.publisher.interfaces.browser.IBrowserSkinType"
+      name="BikaImages"
+      />
 </configure>
